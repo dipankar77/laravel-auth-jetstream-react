@@ -60,3 +60,13 @@ Include:
 MIT — use and adapt freely.
 This is part of my professional Laravel portfolio. Full collection: github.com/dipankar77
 
+## ✅ Add to Your Profile README
+
+Update your main profile readme under:
+
+```md
+### 2. ⚛️ Laravel + Inertia.js + React Projects
+
+| Repository | Description |
+|------------|-------------|
+| [laravel-auth-jetstream-react](https://github.com/dipankar77/laravel-auth-jetstream-react) | Laravel Jetstream demo with React, Inertia.js & Tailwind showing 2FA, profile, session, team features |
