@@ -49,3 +49,14 @@ php artisan serve
 Create one using tinker:
 php artisan tinker
 User::factory()->create(['email' => 'test@example.com', 'password' => bcrypt('password')]);
+
+📸 Screenshots
+Include:
+•	Login screen
+•	Profile management
+•	2FA setup
+•	Browser sessions view
+📄 License
+MIT — use and adapt freely.
+This is part of my professional Laravel portfolio. Full collection: github.com/dipankar77
+
